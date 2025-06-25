@@ -57,14 +57,10 @@ pip install -r requirements.txt
 ```
 fraud-detection-ml/
 │
-├── data/
-│   └── creditcard.csv                 # Dataset file (ignored in Git)
-│
 ├── fraud_detection_ml_project.ipynb   # Main notebook
 ├── requirements.txt                   # Python dependencies
 ├── LICENSE                            # MIT License
 ├── README.md                          # Project overview and documentation
-├── .gitignore                         # Git exclusion rules
 ```
 
 ---
